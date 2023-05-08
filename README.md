@@ -1,6 +1,7 @@
 # Presentation
 <h1 align="center">I'am, Sávio Santos</h1>
 <h3 align="center">I'am a developer front-end.</h3>
+<p>Atualmente estudando HTML, CSS, JS e o Framework Django</p>
 
 
 - 📫 E-mail: **saviosantosifbaiano@gmail.com**
