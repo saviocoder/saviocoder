@@ -13,24 +13,24 @@ I'm a passionate front-end developer, currently focused on learning HTML, CSS, J
 
 <p align="center">
   <a href="https://www.linkedin.com/in/s%C3%A1vio-santos-da-silva-147b0018a/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30"/>
+    <img src="https://raw.githubusercontent.com/saviobosco/saviobosco/master/icons/linkedin.png" alt="LinkedIn" height="30" width="30"/>
   </a>
   <a href="https://www.instagram.com/savio_dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="30"/>
+    <img src="https://raw.githubusercontent.com/saviobosco/saviobosco/master/icons/instagram.png" alt="Instagram" height="30" width="30"/>
   </a>
   <a href="https://msng.link/o/?+5538998929954=tg" target="_blank">
-    <img src="https://www.pngrepo.com/png/204357/180/telegram.png" alt="Telegram" height="30" width="30" style="background-color: blue; padding: 3px; border-radius: 5px;"/>
+    <img src="https://raw.githubusercontent.com/saviobosco/saviobosco/master/icons/telegram.png" alt="Telegram" height="30" width="30" style="background-color: white; padding: 3px; border-radius: 5px;"/>
   </a>
 </p>
 
 ## Skills
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="HTML5" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="CSS3" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="JavaScript" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="React" height="30" width="30" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg" alt="Django" height="30" width="30" />
+  <img src="https://raw.githubusercontent.com/saviobosco/saviobosco/master/icons/html5.png" alt="HTML5" height="30" width="30" />
+  <img src="https://raw.githubusercontent.com/saviobosco/saviobosco/master/icons/css3.png" alt="CSS3" height="30" width="30" />
+  <img src="https://raw.githubusercontent.com/saviobosco/saviobosco/master/icons/javascript.png" alt="JavaScript" height="30" width="30" />
+  <img src="https://raw.githubusercontent.com/saviobosco/saviobosco/master/icons/react.png" alt="React" height="30" width="30" />
+  <img src="https://raw.githubusercontent.com/saviobosco/saviobosco/master/icons/django.png" alt="Django" height="30" width="30" />
 </p>
 
 ## Projects
