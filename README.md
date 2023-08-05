@@ -4,24 +4,31 @@
 
 I'm a passionate front-end developer, currently focused on learning HTML, CSS, JavaScript, and the Django framework. I love building beautiful and intuitive user interfaces to create engaging web experiences.
 
-### <br> - Ferramentas e Tecnologias
+### <br> - Tools and Technologies
 <div style="display: inline_block;"><br>
-  <img align="center" alt="Java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="HTML5" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS3" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="MySQL" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Python" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img width="70" height="60" src="https://img.icons8.com/color/48/000000/django.png" alt="django"/>
   <img align="center" alt="Javascript" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
+  <img align="center" alt="MySQL" height="45" width="70" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="Python" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Python" height="50" width="90" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img align="center" alt="Docker" height="50" width="60" src="https://img.icons8.com/fluency/48/docker.png" />
+  <img align="center" alt="Bootstrap" height="50" width="70" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
+  </div>
+
+### <br> - OS
+<div style="display: inline_block;"><br>
+  <img align="center" alt="Java" height="40" width="70" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img align="center" alt="HTML5" height="40" width="70" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
   </div>
 
 
 ### <br><br> - Estatisticas GitHub:
 <div align="center">
   <a href="https://github.com/saviodev23">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=millyvasc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millyvasc&theme=radical&layout=compact&line_height=40&hide=css"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saviodev23&theme=blue-green"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviodev23&theme=radical&layout=compact&line_height=40&hide=css"/>
 </div>
   
   
