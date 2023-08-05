@@ -32,7 +32,7 @@ I'm a passionate front-end developer, currently focused on learning HTML, CSS, J
 </div>
   
   
-### <br><br> - Contatos
+### <br><br> - Contacts
 <div>
   <a href= "https://instagram.com/savio_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href= "mailto:saviosantosifbaiano@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
