@@ -4,55 +4,30 @@
 
 I'm a passionate front-end developer, currently focused on learning HTML, CSS, JavaScript, and the Django framework. I love building beautiful and intuitive user interfaces to create engaging web experiences.
 
-## Contact
+### <br> - Ferramentas e Tecnologias
+<div style="display: inline_block;"><br>
+  <img align="center" alt="Java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="HTML5" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="MySQL" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Python" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width="70" height="60" src="https://img.icons8.com/color/48/000000/django.png" alt="django"/>
+  <img align="center" alt="Javascript" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
+  </div>
 
-- 📧 Email: saviosantosifbaiano@gmail.com
-- 📱 WhatsApp: [+55 38 99892-9954](https://api.whatsapp.com/send?phone=5538998929954)
 
-## Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/s%C3%A1vio-santos-da-silva-147b0018a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/saviobosco/saviobosco/master/icons/linkedin.png" alt="LinkedIn" height="30" width="30"/>
-  </a>
-  <a href="https://www.instagram.com/savio_dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/saviobosco/saviobosco/master/icons/instagram.png" alt="Instagram" height="30" width="30"/>
-  </a>
-  <a href="https://msng.link/o/?+5538998929954=tg" target="_blank">
-    <img src="https://raw.githubusercontent.com/saviobosco/saviobosco/master/icons/telegram.png" alt="Telegram" height="30" width="30" style="background-color: white; padding: 3px; border-radius: 5px;"/>
-  </a>
-</p>
-
-## Skills
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saviobosco/saviobosco/master/icons/html5.png" alt="HTML5" height="30" width="30" />
-  <img src="https://raw.githubusercontent.com/saviobosco/saviobosco/master/icons/css3.png" alt="CSS3" height="30" width="30" />
-  <img src="https://raw.githubusercontent.com/saviobosco/saviobosco/master/icons/javascript.png" alt="JavaScript" height="30" width="30" />
-  <img src="https://raw.githubusercontent.com/saviobosco/saviobosco/master/icons/react.png" alt="React" height="30" width="30" />
-  <img src="https://raw.githubusercontent.com/saviobosco/saviobosco/master/icons/django.png" alt="Django" height="30" width="30" />
-</p>
-
-## Projects
-
-Here are some of my recent projects:
-
-1. [Project Name](link-to-project): Brief description and key features.
-
-2. [Project Name](link-to-project): Brief description and key features.
-
-3. [Project Name](link-to-project): Brief description and key features.
-
-## Contributions
-
-I believe in the power of open-source and I enjoy contributing to projects that benefit the community. Some of my notable contributions include:
-
-- [Project Name](link-to-contribution): Description of the contribution and its significance.
-
-- [Project Name](link-to-contribution): Description of the contribution and its significance.
-
-## Let's Connect
-
-Feel free to reach out if you want to collaborate on exciting projects or just to say hi. I'm always looking forward to meeting new people and exchanging ideas!
-
-**"Stay hungry, stay foolish." - Steve Jobs**
+### <br><br> - Estatisticas GitHub:
+<div align="center">
+  <a href="https://github.com/saviodev23">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=millyvasc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millyvasc&theme=radical&layout=compact&line_height=40&hide=css"/>
+</div>
+  
+  
+### <br><br> - Contatos
+<div>
+  <a href= "https://instagram.com/savio_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href= "mailto:saviosantosifbaiano@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
+  <a href= "https://www.linkedin.com/in/s%C3%A1vio-santos-147b0018a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
