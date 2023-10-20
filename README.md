@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate front-end developer, currently focused on learning HTML, CSS, JavaScript, and the Django framework. I love building beautiful and intuitive user interfaces to create engaging web experiences.
+I'm a back-end developer passionate about transforming lines of code into practical and effective solutions. Although my main area of expertise is back-end development, my curiosity has led me to explore the world of web design, where I have solid skills in HTML, CSS, and Bootstrap.
 
 ### <br> - Tools and Technologies
 <div style="display: inline_block;"><br>
