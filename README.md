@@ -15,12 +15,17 @@ I'm a back-end developer passionate about transforming lines of code into practi
   <img align="center" alt="Bootstrap" height="50" width="70" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
   </div>
 
+### <br> - Studying
+<div style="display: inline-block;">
+  <img align="center" alt="PHP" height="45" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Laravel" height="45" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+</div>
+
 ### <br> - OS
 <div style="display: inline_block;"><br>
   <img align="center" alt="Java" height="40" width="70" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img align="center" alt="HTML5" height="40" width="70" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-
-  </div>
+</div>
 
 
 ### <br><br> - Estatisticas GitHub:
