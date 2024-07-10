@@ -31,7 +31,7 @@ I'm a back-end developer passionate about transforming lines of code into practi
 ### <br><br> - Estatisticas GitHub:
 <div align="center">
   <a href="https://github.com/saviodev23">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saviodev23&theme=blue-green"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saviocoder&theme=blue-green"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviodev23&theme=radical&layout=compact&line_height=40&hide=css"/>
 </div>
   
